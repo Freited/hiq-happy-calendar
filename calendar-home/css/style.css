@@ -30,7 +30,7 @@ button {
 
 .single-digit {
   position: absolute;
-  bottom: 20%;
+  bottom: 10%;
   color: rgb(255, 255, 255);
   left: 45%;
   pointer-events: none;
@@ -38,7 +38,7 @@ button {
 
 .deci-digit {
   position: absolute;
-  bottom: 20%;
+  bottom: 10%;
   color: rgb(255, 255, 255);
   left: 40%;
   pointer-events: none;
