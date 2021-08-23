@@ -1,0 +1,48 @@
+body {
+  background: rgb(19, 17, 17);
+  color: rgb(231, 33, 155);
+  font-family: 'Trebuchet MS', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-align: left;
+  padding-left: 5%;
+  padding-top: 1%;
+}
+
+img {
+  width: 100%;
+  vertical-align: top;
+}
+
+.cont {
+  position: relative;
+  overflow: hidden;
+  height: 100vh;
+}
+
+.bgHiQimage {
+  background-image: url(../temp-images/calendar-background.png);
+  background-repeat: no-repeat;
+}
+
+button {
+  background: rgb(51, 51, 51);
+  color: rgb(231, 33, 155);
+}
+
+.single-digit {
+  position: absolute;
+  bottom: 20%;
+  color: rgb(255, 255, 255);
+  padding-left: 45%;
+}
+
+.deci-digit {
+  position: absolute;
+  bottom: 20%;
+  color: rgb(255, 255, 255);
+  padding-left: 40%;
+}
+
+.container {
+  position: relative;
+  font-family: 'Trebuchet MS', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

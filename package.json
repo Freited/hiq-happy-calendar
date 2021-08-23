@@ -1,0 +1,14 @@
+{
+  "name": "hiq-happy-calendar",
+  "version": "1.0.0",
+  "description": "internal project for hiq",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Edward Freitas",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^16.6.1"
+  }
+}
